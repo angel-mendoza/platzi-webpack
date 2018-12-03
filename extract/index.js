@@ -1,4 +1,3 @@
 import './style.css'
-document.write('Hola mundo desde Webpack!')
-//console.log("Hola mundo!, desde Webpack");
-console.log("Hola mundo!, desde Webpack en un Webpack.config en un archivo external");
+document.write('Hola mundo!');
+console.log("Hola mundo! desde Webpack -- editado")
